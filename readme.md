@@ -15,6 +15,8 @@
 
 ## Results
 
+* Click on the images below to see the results
+
 [![Watch the video](https://github.com/anki-mittal/HW3b/blob/master/Code/Screenshot%20from%202024-02-06%2011-20-00.png?raw=true)](https://drive.google.com/file/d/1uUSNmdUd-ZiGVLv2rp2mNiRtt8BZpXFu/view?usp=drive_link)
 
 [![Watch the video](https://rbe549.github.io/assets/2023/rbe595/p3/QuadP3b.png)](https://youtu.be/6rkf0EhJAjg)
